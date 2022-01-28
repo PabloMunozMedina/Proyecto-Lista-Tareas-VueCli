@@ -1,7 +1,5 @@
 # Proyecto-Lista-Tareas-VueCli
 
-Produccion: https://pablomunozmedina.github.io/Proyecto-Lista-Tareas-VueCli/
-
 Firebase: https://proyecto-lista-tareas.firebaseapp.com
 
 Esta lista de tareas permite y contiene:
