@@ -1,6 +1,6 @@
 # Proyecto-Lista-Tareas-VueCli
 
-Firebase: https://proyecto-lista-tareas.firebaseapp.com
+Netlify: https://lista-tareas-vuecli.netlify.app
 
 Esta lista de tareas permite y contiene:
 
